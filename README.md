@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0496-next-greater-element-i) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -66,4 +67,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
