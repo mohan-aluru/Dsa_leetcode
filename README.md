@@ -4,17 +4,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0496-next-greater-element-i) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
