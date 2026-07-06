@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0735-asteroid-collision) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0394-decode-string) |
 ## String
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
 | ------- |
