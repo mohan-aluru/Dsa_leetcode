@@ -1,15 +1,19 @@
 class Solution {
     public int findLucky(int[] arr) {
-        Map<Integer,Integer> map=new LinkedHashMap<>();
-        for(int i:arr){
-            map.put(i,map.getOrDefault(i,0)+1);
+        
+        int[] freq = new int[501] ;
+        int n =arr.length ;
+
+        for(int i = 0 ; i< n ; i++)
+        {
+            freq[arr[i]] ++ ;
         }
-        int res=0;
-       for(int i=0;i<arr.length;i++){
-        if(map.get(arr[i])==arr[i] && res<arr[i]){
-            res=arr[i];
+
+        for(int i = 500 ; i>=1 ; i--)
+        {
+            if(freq[i] == i)
+           { return i ;}
         }
-       }
-        return res==0?-1:res;
-    }
+        return -1 ;
+    } 
 }
