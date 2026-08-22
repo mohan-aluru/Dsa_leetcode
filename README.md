@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0027-remove-element) |
 | [0142-linked-list-cycle-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0392-is-subsequence](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0692-top-k-frequent-words) |
@@ -278,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0347-top-k-frequent-elements) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
