@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0227-basic-calculator-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0394-decode-string) |
 ## String
 |  |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0027-remove-element) |
 | [0142-linked-list-cycle-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0392-is-subsequence](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0392-is-subsequence) |
