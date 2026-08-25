@@ -5,11 +5,13 @@ class Solution {
         s.add(i);
       } 
       int i=1;
-    while(k<=100){
+      int c=s.size();
+    while(c>=0){
    if(!s.contains(k*i)){
     return k*i;
    }
    i++;
+   c--;
     }
     return -1;
     }
