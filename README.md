@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0118-pascals-triangle) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0860-lemonade-change) |
