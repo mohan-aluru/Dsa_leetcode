@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1512-number-of-good-pairs](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1512-number-of-good-pairs) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1833-maximum-ice-cream-bars](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1512-number-of-good-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0227-basic-calculator-ii) |
 | [0523-continuous-subarray-sum](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0692-top-k-frequent-words) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1512-number-of-good-pairs) |
 ## Number Theory
 |  |
 | ------- |
