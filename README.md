@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0227-basic-calculator-ii) |
 | [0523-continuous-subarray-sum](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0394-decode-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/2094-finding-3-digit-even-numbers) |
