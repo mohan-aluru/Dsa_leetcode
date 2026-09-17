@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0227-basic-calculator-ii) |
 | [0523-continuous-subarray-sum](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1025-divisor-game](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1025-divisor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0392-is-subsequence) |
+| [1025-divisor-game](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1025-divisor-game) |
 ## Sorting
 |  |
 | ------- |
@@ -377,4 +379,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
