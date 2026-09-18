@@ -10,14 +10,10 @@ class Solution {
                 while(right<nums.length && nums[i]==nums[right]){
                     right++;
                 }
-             //   if(right<nums.length && (nums[left]<nums[i] && nums[i]>nums[right]) || (nums[left]>nums[i] &&  nums[i]<nums[right])){
-               //     count++;
-                //}
-                 if (right < nums.length &&
-                ((nums[i - 1] < nums[i] && nums[i] > nums[right]) ||
-                 (nums[i - 1] > nums[i] && nums[i] < nums[right]))) {
-                count++;
-            }
+                if(right<nums.length && ((nums[left]<nums[i] && nums[i]>nums[right]) || (nums[left]>nums[i] &&  nums[i]<nums[right]))){
+                    count++;
+                }
+               
         }
         return count;
     }
