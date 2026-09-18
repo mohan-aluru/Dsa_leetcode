@@ -1,5 +1,1 @@
-SELECT today.id
-FROM Weather AS yesterday
-JOIN Weather AS today
-    ON DATEDIFF(today.recordDate, yesterday.recordDate) = 1
-WHERE today.temperature > yesterday.temperature;
+select t.id as Id from Weather as y join  Weather as t on DATEDIFF(t.recordDate,y.recordDate)=1 where t.temperature>y.temperature; 
