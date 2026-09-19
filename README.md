@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1512-number-of-good-pairs) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1711-count-good-meals](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1711-count-good-meals) |
 | [1833-maximum-ice-cream-bars](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1711-count-good-meals](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1711-count-good-meals) |
 | [2094-finding-3-digit-even-numbers](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
