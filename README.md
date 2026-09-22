@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1652-defuse-the-bomb) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Two Pointers
 |  |
 | ------- |
