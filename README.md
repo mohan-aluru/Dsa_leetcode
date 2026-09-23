@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1711-count-good-meals) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2094-finding-3-digit-even-numbers](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
