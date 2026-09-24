@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
