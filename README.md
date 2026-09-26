@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0227-basic-calculator-ii) |
 | [0392-is-subsequence](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0394-decode-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0692-top-k-frequent-words) |
 | [0856-score-of-parentheses](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0856-score-of-parentheses) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
