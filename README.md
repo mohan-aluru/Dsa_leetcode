@@ -323,11 +323,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Data Stream
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0901-online-stock-span) |
 ## Simulation
 |  |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0692-top-k-frequent-words) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Brainteaser
 |  |
 | ------- |
@@ -501,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
