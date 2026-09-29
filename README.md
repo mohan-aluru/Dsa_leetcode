@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1025-divisor-game](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1025-divisor-game) |
+| [1248-count-number-of-nice-subarrays](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1652-defuse-the-bomb) |
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3903-smallest-stable-index-i](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3903-smallest-stable-index-i) |
