@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0860-lemonade-change) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0692-top-k-frequent-words) |
 | [1331-rank-transform-of-an-array](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -400,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
