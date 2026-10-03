@@ -11,7 +11,7 @@ class Solution {
           if(left==right){
             maxlen=Math.max(maxlen,left*2);
           }
-          if(right>left){
+          if(right>left){//remove if closed are greater because no longer is is vali
             left=right=0;
           }
         }
