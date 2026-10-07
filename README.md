@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3477-fruits-into-baskets-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [3477-fruits-into-baskets-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
@@ -542,4 +545,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
