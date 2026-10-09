@@ -556,4 +556,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
