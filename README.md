@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0227-basic-calculator-ii) |
+| [0234-palindrome-linked-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0503-next-greater-element-ii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0394-decode-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/0876-middle-of-the-linked-list) |
