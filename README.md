@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2942-find-words-containing-character](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2942-find-words-containing-character](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/2942-find-words-containing-character) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
