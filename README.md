@@ -485,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1148-article-views-i) |
+| [1280-students-and-examinations](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/mohan-aluru/Dsa_leetcode/tree/master/1693-daily-leads-and-partners) |
